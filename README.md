@@ -1,6 +1,6 @@
 ## Namaste Geeks !!
 
-I am Nitesh D sharma- Nomad Software Engineer with the experience of 8 years,following my passion for programming, i am teacher and a working professional.
+I am Nitesh D sharma- passionate Software Engineer with the experience of 8 years, i am a teacher and a working professional.
 Assisted many startups from mohali,India as the technical lead.
 Has been actively supporting and bringing together the developer community of India.
 
