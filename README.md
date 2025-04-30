@@ -1,4 +1,4 @@
-## Namaste Geeks !!
+## Hello World
 
 I am NiteshDSharma- passionate software engineer with the experience of 8 years,
 i am a teacher and a working professional.
