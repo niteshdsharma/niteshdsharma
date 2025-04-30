@@ -1,9 +1,8 @@
 ## Hello World
 
 I am NiteshDSharma- passionate software engineer with the experience of 8 years,
-i am a teacher and a working professional.
-Assisted many startups from mohali,india as the technical lead.
+i am a teacher and a working professional from mohali,india.
 
-- 🔭 I’m currently working on React Native core plugins to enchance performances.
-- 💬 Ask me about Javascript / Typescript, Python,Django,Ionic, Redux, Rxjs, Nodejs/ Expressjs, Mongodb, Docker, Microservice
+- 🔭 I’m currently working on React Native and bridge plugins to enchance performances.
+- 💬 Ask me about Javascript / Typescript, Python,Django,Ionic, Redux, Rxjs, Nodejs/ Expressjs, Mongodb
 - 📫 How to reach me: niteshdsharma44@gmail.com
